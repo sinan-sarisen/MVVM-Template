@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="login_text">#99bad1</color>
+    <color name="time_color">#062f6e</color>
+    <color name="background_color">#f4f8fa</color>
+    <color name="arrow_bg_blue">#1b68d1</color>
+    <color name="text_black">#282e33</color>
+    <color name="dark_grey_text">#3e4448</color>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MVVM-Template</string>
+
+
+    <string name="user_welcome">Hoş geldiniz</string>
+    <string name="title_username">Kullanıcı Adı</string>
+    <string name="title_password">Şifre</string>
+    <string name="action_enter">GİRİŞ</string>
+    <string name="title_market_data">Piyasa\nVerileri</string>
+    <string name="action_continue">DEVAM</string>
+    <string name="msg_verification"><![CDATA[Lütfen <b>05** *** **80</b> nolu telefonunuza gönderilen SMS şifreyi belirtilen süre içerisinde </b> giriniz.]]></string>
+    <string name="login_text">Hoş geldiniz\n\nKullanıcı ekleme işlemlerinizi yapabilir ve sözleşmelerinizi görüntüleyebilirsiniz. Aynı zamanda şifre bloke kaldırma işlemlerini de uygulamamız üzerinden yapabilirsiniz. </string>
+
+    <string name="sms_verification">SMS Doğrulama</string>
+    <string name="verify_text">DOĞRULA</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="atm_text">Atm/Şube</string>
+    <string name="our_news">Bizden Haberler</string>
+
+    <string name="okey_text">TAMAM</string>
+    <string name="qr_text">QR İşlemleri</string>
+</resources>
